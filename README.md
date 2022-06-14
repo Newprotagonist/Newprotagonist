@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ## About me
 I did Le Wagon's Bootcamp in Paris, and I'm currently looking for a job as a fullstack or backend web developer.
 <!--
