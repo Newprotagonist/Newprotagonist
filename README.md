@@ -1,10 +1,12 @@
 ### Hi there 👋
 
+##About me
+I did Le Wagon's Bootcamp in Paris, and I'm currently looking for a job as a fullstack or backend web developer.
 <!--
 **Newprotagonist/Newprotagonist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+:video_game: I like to play video games (competitive and recreative)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
